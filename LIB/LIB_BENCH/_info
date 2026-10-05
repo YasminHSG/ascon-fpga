@@ -1,0 +1,37 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/yasmin.hadj-said/PCSN
+vascon_top_tb
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+DXx7 LIB_RTL 10 ascon_pack 0 22 >QoF=cYoS?d>m;<7Mf;f33
+!s110 1747226987
+!i10b 1
+!s100 M>ceGO[XAG0g0bIzdCmXT0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I`6f]@R7_j6Z@PKdjjQZID3
+S1
+R0
+w1747183864
+8SRC/BENCH/ascon_top_tb.sv
+FSRC/BENCH/ascon_top_tb.sv
+!i122 0
+L0 12 109
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1747226987.000000
+!s107 SRC/BENCH/ascon_top_tb.sv|
+!s90 -sv|+acc|-svinputport=net|-work|LIB_BENCH|-L|LIB_RTL|SRC/BENCH/ascon_top_tb.sv|
+!i113 0
+o-sv +acc -svinputport=net -work LIB_BENCH -L LIB_RTL -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
